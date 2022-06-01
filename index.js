@@ -1,8 +1,10 @@
 <html>
   <head>
-  <p id="demo"></p>
+  <p id="demo" style="text-align:center;"></p>
+<p id="demo1" style="text-align:center;"></p>
 <script>
-    document.getElementById("demo").innerHTML="Developments under Departments";
+    document.getElementById("demo").innerHTML="DEVELOPMENTS UNDER DEPARTMENT";
+  document.getElementById("demo1").innerHTML="Projects under Departments. Full Project that contains objectives and main objective. ";
 </script>
 </html>
 
