@@ -1,3 +1,26 @@
+<html>
+  <head>
+  <p id="demo"></p>
+<script>
+    document.getElementById("demo").innerHTML="Developments under Departments";
+</script>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 let express = require('express');
 let app = express();
 let ejs = require('ejs');
